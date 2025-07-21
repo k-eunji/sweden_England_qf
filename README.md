@@ -1,6 +1,6 @@
-# UEFA Women's EURO 2025:  Can You Win Without the Ball? Norway vs Italy, a Clash of Counterattack Styles
+# UEFA Women's EURO 2025: The Defending Champions Almost Fell… But England Survived
 
-This project uses key metrics and match data to predict whether Norway or Italy will advance to the semifinlas in the UEFA Women’s EURO 2025.
+This project explores how England beat Sweden in the UEFA Women’s EURO 2025. By examining key metrics and match data, I analyzed the result.
 
 ---
 
@@ -23,7 +23,7 @@ This project uses key metrics and match data to predict whether Norway or Italy 
 
 ## Tools Used
 
-- Python (Pandas, Matplotlib)
+- Python (Pandas, Matplotlib, Numpy)
 
 ---
 
@@ -44,4 +44,4 @@ This project uses key metrics and match data to predict whether Norway or Italy 
 | `defense_metrics_comparison.png` | Visualization of defense data about Norway vs Italy        |
 | `attack_metrics_comparison.png` | Visualization of attack data about Norway vs Italy           |
 
-Creation date: 15 July, 2025
+Creation date: 18 July, 2025
