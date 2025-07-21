@@ -37,11 +37,11 @@ This project explores how England beat Sweden in the UEFA Women’s EURO 2025. B
 
 | Filename                | Description                                               |
 |-------------------------|-----------------------------------------------------------|
-| `round1_3.csv`  | Raw match data including shots, xG, etc. per Team |
-| `wteam_avg.csv`          | Processed Average of Italy and Norway from round1_3.csv  |
+| `quaterfinals.csv`  | Raw match data including shots, xG, etc. per Team |
+| `wteam_avg.csv`          | Processed Average of each Teams from quaterfinals.csv  |
+| `eng_swe.csv`          | Processed Data of England and Sweden from quaterfinals.csv  |
 |  `nor_italy.ipynb`    | Jupyter Notebook with data analysis and visualization code        |
-|  `Possession.png`    | Visualization of Possession about Norway vs Italy        |
-| `defense_metrics_comparison.png` | Visualization of defense data about Norway vs Italy        |
-| `attack_metrics_comparison.png` | Visualization of attack data about Norway vs Italy           |
+| `goalkeeper_swe_eng.png` | Visualization of goalkeeper defensive data by team     |
+| `swe_eng.png` | Visualization of attack data about Sweden vs England          |
 
 Creation date: 18 July, 2025
